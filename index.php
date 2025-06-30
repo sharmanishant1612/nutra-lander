@@ -21,7 +21,7 @@
 
               <!-- <button class="bg-green-900 py-3 px-6 rounded-lg  text-white font-semibold hover:bg-green-700">Explore now</button> -->
 
-              <a href="" class="bg-green-900 py-3 px-6 rounded-lg  text-white font-semibold hover:bg-green-700">Explore now</a>
+              <a href="https://www.healthdirect.gov.au/antifungal-medicines" class="bg-green-900 py-3 px-6 rounded-lg  text-white font-semibold hover:bg-green-700">Explore now</a>
 
 
               <p class=" text-center">
